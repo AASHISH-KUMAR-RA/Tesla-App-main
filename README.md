@@ -14,7 +14,7 @@
 
 ## Build/Setup 🛠️
 - Install flutter
-- `git clone [https://github.com/AASHISH-KUMAR-RA/Plant-Doctor-App]`
+- `git clone 
 - cd Tesla App main
 - `flutter pub get`
 - Start debugging 🚀
