@@ -8,7 +8,9 @@
 
 
 ## Demo 📱
-![demo](https://github.com/AASHISH-KUMAR-RA/Tesla-App-main/blob/main/video_2024-12-27_16-54-22.mp4)
+<p align="center">
+  <img src="./video/video_2024-12-27_16-54-22.gif">
+</p>
 
 ## Build/Setup 🛠️
 - Install flutter
